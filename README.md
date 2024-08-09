@@ -21,7 +21,5 @@ An Express-based Node.js app that showcases a collection of top movies, TV shows
 2. **Install the dependencies**
 
    ```bash
-    npm install
-    npm start
-    npm run dev
+    npm install -> npm start OR npm run dev
    ```
